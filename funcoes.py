@@ -35,7 +35,7 @@ def menu():
             mult()
         elif r == 5:
             print('Obrigado por utilizar a calculadora X9\n')
-            print('Criador: Lucas Gonsalves\n')
+            print('Criador: Paulo Ricardo\n')
             print('Linguagem utilizada: Python\n')
             break
         else:
